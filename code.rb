@@ -10,6 +10,7 @@ def revise_arr(l)
 	break if match_found==true
 	end
 	help_words.each{|x| if (match_found==false)&&(l[0]==x) then l[0]+=" "+l[1]; l.delete_at(1); end}
+	if l.include?('A') then i=l.index('A'); l[i]+=" "+l[i+1]; l.delete_at(i+1); end
 	l
 end
 file=File.open('lines_db')
