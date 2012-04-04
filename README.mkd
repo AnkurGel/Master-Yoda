@@ -1,5 +1,5 @@
 ##Master Yoda Converter
-![](http://images1.makefive.com/images/entertainment/movies/best-star-wars-character/yoda-7.jpg)	
+<img src="http://images1.makefive.com/images/entertainment/movies/best-star-wars-character/yoda-7.jpg" align="top">
 Converts general text to __master-yoda__ way! 
 Specially took care of helping verbs to make sensible setences. 
 
