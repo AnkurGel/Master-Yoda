@@ -11,7 +11,7 @@ Specially took care of helping verbs to make sensible setences.
 
 ### How to use: 
 
-Modify lines_db_ to input your lines in any way. 
+Modify lines\_db to input your lines in any way. 
 
 Run: `ruby code.rb`
 
