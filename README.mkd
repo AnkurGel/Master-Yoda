@@ -4,10 +4,10 @@ Converts general text to __master-yoda__ way!
 Specially took care of helping verbs to make sensible setences. 
 
 ### Output examples:
-How are you doing man? --> YOU MAN DOING HOW ARE 
-You are very late today. --> LATE TODAY YOU ARE VERY
-I am feeling hungry. --> HUNGRY I AM FEELING
-You must go home now. --> GO NOW YOU HOME MUST
+- How are you doing man? --> YOU MAN DOING HOW ARE 
+- You are very late today. --> LATE TODAY YOU ARE VERY
+- I am feeling hungry. --> HUNGRY I AM FEELING
+- You must go home now. --> GO NOW YOU HOME MUST
 
 ### How to use: 
 
@@ -16,7 +16,7 @@ Modify lines_db_ to input your lines in any way.
 Run: `ruby code.rb`
 
 ### TO DO:
-Create Rails App
-Take care of complex and bigger sentences.
+* Create Rails App
+* Take care of complex and bigger sentences.
 
 ANKUR AWESOME YOU ARE. HAPPY MASTER YODA IS. MUAHAA
