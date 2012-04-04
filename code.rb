@@ -1,5 +1,5 @@
 def revise_arr(l)
-	help_words=['are', 'am', 'is', 'was', 'were', 'has', 'have']
+	help_words=%w(are am is was were has have must shall could would should couldn't shouldn't musn't wouldn't may might may can can't)
 	help_words=help_words.join(' ').upcase.split; match_found=false
 	help_words.each do |x|
 	if l.include?(x)&&(l.index(x))!=0
