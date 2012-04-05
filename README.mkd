@@ -1,10 +1,12 @@
 ##Master Yoda Converter
 <img src="http://images1.makefive.com/images/entertainment/movies/best-star-wars-character/yoda-7.jpg" align="left">
 ### Output examples:
-- How are you doing man? --> YOU MAN DOING HOW ARE 
-- You are very late today. --> LATE TODAY YOU ARE VERY
-- I am feeling hungry. --> HUNGRY I AM FEELING
-- You must go home now. --> GO NOW YOU HOME MUST
+- How are you doing man? --> HOW ARE MAN DOING YOU 
+- You are very late today. --> TODAY VERY LATE YOU ARE
+- I am feeling hungry. --> HUNGRY FEELING I AM
+- You must go home now. --> NOW GO HOME YOU MUST
+- we are off course. --> COURSE WE ARE OFF
+- I will have a drink --> WILL HAVE I A DRINK
 
 Converts general text to __master-yoda__ way! 
 Specially took care of helping verbs to make sensible setences. 
